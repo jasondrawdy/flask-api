@@ -1,0 +1,18 @@
+# Microservice framework and object orientation wrapper.
+Flask
+flask-restful
+# Code documentation generation and automation extension.
+Sphinx
+sphinx-autoapi
+sphinx-rtd-theme
+# Unit testing and branch coverage; we strive for 100%.
+coverage
+# Databases, caching and memory operations.
+SQLAlchemy
+SQLAlchemy-Utils
+Flask-SQLAlchemy
+pymysql
+sshtunnel
+# Plugin support and other core system utilities.
+luminal
+psutil
